@@ -1,0 +1,34 @@
+{
+    "pwsconsole":{
+        "console_url":"https://1742-pws.pulseonestaging.io/admin#/login",
+        "console_url_username":"jankit",
+        "console_url_password":"dana1234"
+        },
+    "user_device":{
+        "user_name":"ravindra.mallikarjun",
+        "full_name":"ravindramallikarjun",
+        "device_name":"samsung SM-G991B",
+        "Workspace_Email": "ravindra.mallikarjun@ivanti.com",
+        "Phone_Number": "9441222898"
+        },
+    "apps":{
+        "OS" :  "android",
+        "apps" : "Myntra"
+    },
+    "apps1":{
+        "OS" :  ["android","ios"],
+        "apps" : ["Myntra","Google Chrome"],
+        "apps_verify" :["com.android.chrome","com.myntra.android"]
+    },
+    "app_sync":{
+        "domain_name": "ivanti.com",
+        "host":"outlook.office365.com"
+        
+    },
+    "VPN":{
+        "vpn_host" : "stg3.pwsmobilesaml.net/autotester",
+        "vpn_name" : "vpn_manual"
+    }
+
+    
+}
